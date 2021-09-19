@@ -6,6 +6,12 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatsAreGood1337&layout=compact)]
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CatsAreGood1337)]
+
+
+
 ### Follow me
 
 [![Youtube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCvDjvzN-BQ9XvHh8reSYo4w)
