@@ -8,6 +8,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatsAreGood1337&layout=compact)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=CatsAreGood1337&show_icons=true&theme=Gradient)
+
+
 ### Follow me
 
 [![Youtube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCvDjvzN-BQ9XvHh8reSYo4w)
