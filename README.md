@@ -2,6 +2,8 @@
 
 ## I'm junior python, java, web developer, interesed in frontend, learning C++
 
+![](https://komarev.com/ghpvc/?username=your-github-CatsAreGood1337)
+
 ### I like languages
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
