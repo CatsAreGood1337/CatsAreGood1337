@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatsAreGood1337&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatsAreGood1337&layout=compact)
 
 ### Follow me
 
