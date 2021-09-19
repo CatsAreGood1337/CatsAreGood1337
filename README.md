@@ -2,10 +2,12 @@
 
 ## I'm junior python, java, web developer, interesed in frontend, learning C++
 
-My youtube channel
+### I like languages
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 
-I like languages
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+### Follow me
 
-Follow me
+[![Youtube](https://img.shields.io/badge/black?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCvDjvzN-BQ9XvHh8reSYo4w)
+[![Telegram](https://img.shields.io/badge/black?style=flat-square&logo=telegram)](https://t.me/CatsAreGood)
+[![Discord](https://img.shields.io/badge/black?style=flat-square&logo=discord)](https://discord.gg/W8aESyTNvn)
