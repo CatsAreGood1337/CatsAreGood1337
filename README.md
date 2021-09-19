@@ -4,7 +4,10 @@
 
 My youtube channel
 
-Languages
+I like languages
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java)
+![Htlm](https://img.shields.io/badge/Html-090909?style=for-the-badge&logo=html)
+![Css](https://img.shields.io/badge/Css-090909?style=for-the-badge&logo=css)
 
 Follow me
