@@ -9,7 +9,7 @@
 ### Follow me
 
 [![Youtube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCvDjvzN-BQ9XvHh8reSYo4w)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/CatsAreGood)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/CDark_1)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)](https://discord.gg/W8aESyTNvn)
 
 ### My stats
